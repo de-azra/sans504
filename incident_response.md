@@ -1,7 +1,3 @@
-# sans504
-
-Incident Response
-
 1. Preparation
 2. Identification
 3. Containment
